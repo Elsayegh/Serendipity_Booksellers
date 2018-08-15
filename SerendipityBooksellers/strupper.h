@@ -1,0 +1,1 @@
+void strUpper(char*);
